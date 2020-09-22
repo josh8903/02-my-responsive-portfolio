@@ -37,6 +37,10 @@ img {
     width: 100%;
     /* Set the fixed height of the footer here */
     height: 60px;
+    margin: auto;
     background-color: gray;
+    color: lightgray;
+    text-align: center;
+    line-height: 55px;
     border-top: 5px solid teal;
 }
