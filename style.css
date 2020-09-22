@@ -1,0 +1,42 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-image: url(assets/images/bg.jpg);
+}
+
+#josh {
+    background-color: teal;
+    color: white;
+}
+
+#about {
+    font-weight: bold;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 20px;
+}
+
+#main {
+    background-color: white;
+    max-width: 65%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding: 25px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: gray;
+    border-top: 5px solid teal;
+}
