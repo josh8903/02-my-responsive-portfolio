@@ -1,5 +1,5 @@
 # Responsive portfolio project
-The purpose of this project was to create a responsive portfolio layout based on a set of images depicting how the lahout must behave on various viewports. 
+The purpose of this project was to create a responsive portfolio layout based on a set of images depicting how the layout must behave on various viewport sizes. 
 
 ### Steps taken
 * Utilized bootstrap for native responsiveness
