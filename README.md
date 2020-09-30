@@ -10,7 +10,7 @@ The purpose of this project was to create a responsive portfolio layout that per
 * Attempted to minimize CSS and @media queries
 
 ### Deployed link
-https://josh8903.github.io/02-responsive/
+https://josh8903.github.io/02-my-responsive-portfolio/
 
 - - - 
 
